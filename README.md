@@ -1,4 +1,6 @@
 ## Hi there 👋
+Getting start to update some projects about LLM and CV~
+Welcome to follow~
 
 <!--
 **laniakeaoverflow/laniakeaoverflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
