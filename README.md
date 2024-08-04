@@ -1,5 +1,5 @@
 ## Hi there 👋
-Getting start to update some projects about LLM and CV~
+Getting start to update some projects about LLM and CV~  
 Welcome to follow~
 
 <!--
